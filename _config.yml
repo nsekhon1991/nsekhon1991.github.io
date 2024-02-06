@@ -84,9 +84,9 @@ author:
   avatar           : "Screen Shot 2020-11-10 at 5.05.07 PM.png"
   bio              : "Assistant Professor"
   location         : "Los Angeles, CA"
-  employer         : "Occidental College"
+  employer         : 
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=ZrXDXEkAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=ZrXDXEkAAAAJ&hl=en&authuser=1"
   email            : "sekhon@oxy.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-4513-2301?lang=en"
+  orcid            : "https://orcid.org/0000-0002-4513-2301"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
