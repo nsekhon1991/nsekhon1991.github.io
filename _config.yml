@@ -84,10 +84,10 @@ author:
   avatar           : "Screen Shot 2020-11-10 at 5.05.07 PM.png"
   bio              : "Assistant Professor"
   location         : "Los Angeles, CA"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Occidental College"
+  pubmed           :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "sekhon@oxy.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "nsekhon1991"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
