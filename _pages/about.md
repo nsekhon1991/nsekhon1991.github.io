@@ -16,4 +16,4 @@ At Occidental College, I am the PI for the Water Isotopes, Cave and Karst (WICK)
 
 RESEARCH AREAS: Extreme events (droughts and floods), terrestrial (paleo)climate, low-temp geochemistry, stalagmites, cave monitoring, quaternary climate change, statistical and time-series analysis.
 
-Please find my CV here: 
+Please find my CV here: [CV] https://github.com/nsekhon1991/nsekhon1991.github.io/edit/master/files/Jan2024_Sekhon_CV.pdf
