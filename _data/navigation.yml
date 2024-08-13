@@ -1,16 +1,17 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
   - title: "People"
-    url: /talks/    
+    url: /talks/ 
+    
+  - title: "Research"
+    url: /publications/   
 
-  - title: "Teaching"
+  - title: "Pedagogy"
     url: /teaching/    
     
-  - title: "WICK"
+  - title: "Facilities"
     url: /portfolio-1/
         
-  - title: "Field Work"
+  - title: "Outreach"
     url: /year-archive/
