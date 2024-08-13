@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Earth Our Environment (GEO105)"
 collection: teaching
 type: "Undergraduate course"
 venue: "University 1, Department"
